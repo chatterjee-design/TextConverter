@@ -1,0 +1,16 @@
+.footer{
+    display:flex;
+    align-items: center;
+    font-size: 1rem;
+    
+    justify-content: space-between;
+    padding: 10px 13%;
+    margin: 0%;
+    color: #ffffff;
+    background-color: #f9d3cc;
+}
+.footer p:hover{
+    color: #9c989a;
+    font-size: 1.06rem;
+    
+}

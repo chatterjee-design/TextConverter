@@ -1,0 +1,67 @@
+.buttons{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    height: 100%;
+    margin-top: 30px;
+    position: relative;
+    width: 150px;
+
+}
+.bttns{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    height: 100%;
+    margin-top: 30px;
+    position: relative;
+    width: 170px;
+  
+}
+.btns{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    height: 100%;
+    margin-top: 30px;
+    position: relative;
+    width: 200px;
+
+}
+
+.btn{
+   
+    display: flex;
+    align-items: center;
+}
+.round{
+
+    background-color: #f9d3cc;
+    height: 56px;
+    width: 56px;
+    display: flex;
+    justify-content: flex-start;
+    border-radius: 28px;
+}
+.btn .clickMe{
+    position: absolute;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 17px;
+    line-height: 50px;
+    font-weight: 400;
+    letter-spacing: .30em;
+}
+.clickMe{
+    color: black;
+}
+.round:hover{
+    width: 100%;
+    background-color: #efc3bb;
+    transition: all .3s ease;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.bttn{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
